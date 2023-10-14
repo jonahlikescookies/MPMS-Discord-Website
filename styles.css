@@ -5,6 +5,7 @@
 #tabs a {
   float:left;
   text-align:center;
+  text-decoration:none;
 }
 #tabs a.active {
   background-color:mediumseagreen;
