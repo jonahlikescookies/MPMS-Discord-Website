@@ -1,7 +1,14 @@
-#tabcont {
-  display:none;
+#tabs {
+  background-color:gray;
 }
-#tabbut {
-  overflow:hidden;
-  border:1px solid;
+
+#tabs a {
+  float:left;
+  text-align:center;
+}
+#tabs a.active {
+  background-color:mediumseagreen;
+}
+#tabs a:hover {
   background-color:#f1f1f1;
+}
