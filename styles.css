@@ -1,11 +1,9 @@
-.tabs {
-  background-color:gray;
-}
-
 .tabs a {
   float:left;
   text-align:center;
   text-decoration:none;
+  font-size:50px;
+  background-color:#e2e2e2;
 }
 .tabs a.active {
   background-color:mediumseagreen;
