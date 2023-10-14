@@ -1,5 +1,5 @@
 function opentab(tabname){
-  let tabs = document.getElementsById('tabcont');
+  const tabs = document.getElementsById('tabcont');
   for(let i = 0; i < tabs.length; i++){
     tabs[i].style.display = "none";
   }
