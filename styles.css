@@ -1,16 +1,16 @@
-#tabs {
+.tabs {
   background-color:gray;
 }
 
-#tabs a {
+.tabs a {
   float:left;
   text-align:center;
   text-decoration:none;
 }
-#tabs a.active {
+.tabs a.active {
   background-color:mediumseagreen;
 }
-#tabs a:hover {
+.tabs a:hover {
   background-color:#f1f1f1;
 }
 body {
