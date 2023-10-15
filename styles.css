@@ -3,10 +3,10 @@ a {
   text-align:center;
   text-decoration:none;
   font-size:50px;
-  background-color:white;
+  background-color:mediumseagreen;
 }
 a.active {
-  background-color:mediumseagreen;
+  background-color:#3ba365;
 }
 a:hover {
   background-color:#f1f1f1;
