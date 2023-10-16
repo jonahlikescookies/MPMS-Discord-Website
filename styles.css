@@ -9,10 +9,10 @@
   width:20%;
   margin-top:0px;
 }
-.tab a.active {
+.active {
   background-color:#3ba365;
 }
-.tab a:hover {
+.tab:hover {
   background-color:#3ba365;
 }
 body {
