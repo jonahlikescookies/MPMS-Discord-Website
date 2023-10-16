@@ -9,7 +9,7 @@
   width:20%;
   margin-top:0px;
 }
-.active {
+a.active {
   background-color:#3ba365;
 }
 .tab:hover {
