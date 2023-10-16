@@ -1,4 +1,4 @@
-.tabs a {
+#tab {
   float:left;
   color:white;
   text-align:center;
@@ -9,10 +9,10 @@
   width:20%;
   margin-top:0px;
 }
-a.active {
+#tab a.active {
   background-color:#3ba365;
 }
-a:hover {
+#tab a:hover {
   background-color:#3ba365;
 }
 body {
