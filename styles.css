@@ -2,6 +2,7 @@ a {
   float:left;
   color:white;
   text-align:center;
+  font-family:'Comfortaa';
   text-decoration:none;
   font-size:30px;
   background-color:mediumseagreen;
@@ -26,10 +27,13 @@ h1 {
   font-size:50px;
   margin-top:50px;
   color:#d7efef;
+  font-family:'Comfortaa';
 }
 h2 {
+  font-family:'Comfortaa';
   color:#d7efef;
 }
 p {
+  font-family:'Comfortaa';
   color:#d7efef;
 }
