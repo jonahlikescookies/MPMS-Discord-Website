@@ -40,10 +40,6 @@ p {
   font-family:'Comfortaa';
   color:#d7efef;
 }
-#footer {
+.footer {
   font-size:10px;
-}
-#link {
-  text-decoration:none;
-  color:mediumseagreen;
 }
