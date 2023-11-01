@@ -1,4 +1,4 @@
-#tab {
+body {
   margin: 0;
 }
 a {
@@ -29,6 +29,7 @@ img {
   max-width:20%;
 }
 h1 {
+  margin: auto;
   font-weight:bold;
   font-size:50px;
   margin-top:50px;
@@ -36,14 +37,17 @@ h1 {
   font-family:'Comfortaa';
 }
 h2 {
+  margin: auto;
   font-family:'Comfortaa';
   color:#d7efef;
 }
 p {
+  margin: auto;
   font-family:'Comfortaa';
   color:#d7efef;
 }
 .footer {
+  margin: auto;
   font-size:10px;
   font-style:italic;
 }
