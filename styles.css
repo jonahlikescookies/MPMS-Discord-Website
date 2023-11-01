@@ -29,7 +29,7 @@ img {
   max-width:20%;
 }
 h1 {
-  margin: auto;
+  margin-left: 5vw;
   font-weight:bold;
   font-size:50px;
   margin-top:50px;
@@ -37,17 +37,17 @@ h1 {
   font-family:'Comfortaa';
 }
 h2 {
-  margin: auto;
+  margin-left: 5vw;
   font-family:'Comfortaa';
   color:#d7efef;
 }
 p {
-  margin: auto;
+  margin-left: 5vw;
   font-family:'Comfortaa';
   color:#d7efef;
 }
 .footer {
-  margin: auto;
+  margin-left: 5vw;
   font-size:10px;
   font-style:italic;
 }
